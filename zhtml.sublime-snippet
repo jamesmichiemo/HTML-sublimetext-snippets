@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	
+</body>
+</html>]]></content>
+	<tabTrigger>zhtml</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
