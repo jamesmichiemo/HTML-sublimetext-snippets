@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<header>
+     <hgroup>
+                <h1>${1:}</h1>
+          <h2>${2:}</h2>
+     </hgroup>
+</header>]]></content>
+	<tabTrigger>zhgroup</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

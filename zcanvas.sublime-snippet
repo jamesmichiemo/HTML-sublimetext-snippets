@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<canvas width="${1:}" height="${2:}"> 
+     <p>${3:}</p>
+</canvas>]]></content>
+	<tabTrigger>zcanvas</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

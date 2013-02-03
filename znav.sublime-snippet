@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[<nav> 
+     <ul>
+          <li>Home</li> 
+          <li>About/li> 
+          <li>Gallery</li> 
+          <li>Store</li> 
+          <li>Contact</li>
+     </nav>]]></content>
+	<tabTrigger>znav</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -15,9 +15,14 @@ The following commands will activate with the use of the tab button. Every comma
 
 ### Z-Snippet Command List ###
 
-* zhtml
+* zcanvas
+* zdoctype
 * zform
+* zhead
+* zheader
+* zhgroup
 * zhtml
+* znav
 * zskeleton
 * ztable
 
