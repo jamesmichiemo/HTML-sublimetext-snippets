@@ -5,7 +5,7 @@ A collection of [Sublime Text](http://sublimetext.com) code snippets for writing
 
 ## Installation
 
-*1.*  Clone the repository into your packages folder.
+Clone the repository into your packages folder.
 
     git clone git@github.com:omeichim/HTML-sublimetext-snippets.git
 
