@@ -11,7 +11,7 @@ Clone the repository into your packages folder.
 
 ## Overview
 
-The following commands will activate with the use of the tab button. Every command has been prefixed with the letter z to avoid interference with any other snippets. Snippets will only work in HTML format documents.
+The following commands will activate with the use of the <kbd>Tab</kbd> button. Every command has been prefixed with the letter z to avoid interference with any other snippets. Snippets will only work in HTML format documents.
 
 ### Z-Snippet Command List ###
 

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<meta charset="UTF-8">
-<link rel="stylesheet" href="style.css">]]></content>
+<link rel="stylesheet" href="${1:}">]]></content>
 	<tabTrigger>zhead</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
